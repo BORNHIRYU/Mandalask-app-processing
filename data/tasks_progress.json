@@ -1,0 +1,24 @@
+{
+  "isExistParentTask": false,
+  "isExistChildrenTasks": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "isCompletedChildrenTasks": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "isConfirmedTasks": false
+}
